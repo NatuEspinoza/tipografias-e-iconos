@@ -1,0 +1,133 @@
+p {
+  text-align: center;
+  color: gray;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+}
+
+h2 {
+  text-align: center;
+  color: gray;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+
+/* AVION DE PAPEL */
+
+.avion-papel {
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+}
+
+.avion-papel:hover {
+  color: #b0afad;
+  background-color: #d4d4d4;
+  cursor: pointer;
+  border: 3px solid #b0afad;
+  font-size: 80px;
+}
+
+.fa-paper-plane {
+  text-align: center;
+  color: gray;
+}
+
+/* ¿CONOCES RUBY? */
+
+.ruby {
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+}
+
+.ruby:hover {
+  color: #b0afad;
+  background-color: #d4d4d4;
+  cursor: pointer;
+  border: 3px solid #b0afad;
+  font-size: 80px;
+}
+
+.fa-diamond {
+  text-align: center;
+  color: gray;
+}
+
+/* I DO CSS & HTML */
+
+.css-html {
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+}
+
+.css-html:hover {
+  color: #b0afad;
+  background-color: #d4d4d4;
+  cursor: pointer;
+  border: 3px solid #b0afad;
+  font-size: 80px;
+}
+
+.fa-heart-o {
+  text-align: center;
+  color: gray;
+}
+
+/* CAFÉ*/
+
+.cafe {
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+}
+
+.cafe:hover {
+  color: #b0afad;
+  background-color: #d4d4d4;
+  cursor: pointer;
+  border: 3px solid #b0afad;
+  font-size: 80px;
+}
+
+.fa-coffee {
+  text-align: center;
+  color: gray;
+}
+
+/* COMIDA*/
+
+.comida {
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  font-size: 50px;
+  text-align: center;
+  float: left;
+}
+
+.comida:hover {
+  color: #b0afad;
+  background-color: #d4d4d4;
+  cursor: pointer;
+  border: 3px solid #b0afad;
+  font-size: 80px;
+}
+
+.fa-cutlery {
+  text-align: center;
+  color: gray;
+}
